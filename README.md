@@ -7,3 +7,10 @@
 
 
 
+![AgeVsKm](https://github.com/karanptl/Predicting-price-of-used-cars-/assets/40546045/b7d16443-b6b8-4c5a-bdd1-0c7d46aa658e)
+
+![TrainingVsTesting](https://github.com/karanptl/Predicting-price-of-used-cars-/assets/40546045/81190eaf-4e8b-42ac-a4ba-60bbc746e11f)
+
+![categorical variables into dummies](https://github.com/karanptl/Predicting-price-of-used-cars-/assets/40546045/39657eb8-ebb1-4250-943f-7fac0c431e12)
+
+![Comparision](https://github.com/karanptl/Predicting-price-of-used-cars-/assets/40546045/8440cd2d-ca36-4bfc-ad34-ddb15d2ca9eb)
