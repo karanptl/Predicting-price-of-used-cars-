@@ -6,12 +6,10 @@
 
 
 
+![categorical variables into dummies](https://github.com/karanptl/Predicting-price-of-used-cars-/assets/40546045/51e002d0-c49e-4095-a797-748b6feaad75)
 
+![TrainingVsTesting](https://github.com/karanptl/Predicting-price-of-used-cars-/assets/40546045/9e10662e-b0da-4243-8aab-9b0f67c12b90)
 
-![categorical variables into dummies](https://github.com/karanptl/Predicting-price-of-used-cars/assets/40546045/6dbf572c-c956-44d0-a0b5-d1005f7d28d0)
+![AgeVsKm](https://github.com/karanptl/Predicting-price-of-used-cars-/assets/40546045/61d01427-02e2-4588-ac1f-a79ba737b8c5)
 
-![TrainingVsTesting](https://github.com/karanptl/Predicting-price-of-used-cars/assets/40546045/b838bbb5-4edf-40a1-90a9-89e224c4b8f2)
-
-![AgeVsKm](https://github.com/karanptl/Predicting-price-of-used-cars/assets/40546045/bbf8e5e3-e4d0-4617-9824-782d3762bbf3)
-
-![Comparision](https://github.com/karanptl/Predicting-price-of-used-cars/assets/40546045/a78da7cf-9338-4c9f-af8b-46ddd9eab6a9)
+![Comparision](https://github.com/karanptl/Predicting-price-of-used-cars-/assets/40546045/6c9ac7c1-1455-47c6-a635-696ae158b100)
